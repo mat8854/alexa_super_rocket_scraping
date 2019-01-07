@@ -1,2 +1,4 @@
 # alexa_super_rocket_scraping
-Minimal Python scraping script.
+Rewritten minimal Python scraping script.
+
+Based on Beautiful Soup and Google translation API.
